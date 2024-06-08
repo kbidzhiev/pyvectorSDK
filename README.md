@@ -1,1 +1,1 @@
-# TQ
+# TQ solver
