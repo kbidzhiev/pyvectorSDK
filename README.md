@@ -1,1 +1,1 @@
-# TQ solver
+# TQ solver config
