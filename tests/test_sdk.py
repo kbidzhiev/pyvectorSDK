@@ -1,5 +1,5 @@
 # tests/test_sdk.py
-from vectorSDK.sdk import vectorSDK
+from pyvectorSDK.sdk import vectorSDK
 
 def test_compute_norm():
     vec = vectorSDK([3, 4])

@@ -1,4 +1,4 @@
-from vectorSDK.lnorm import compute_l_p_norm, sort
+from pyvectorSDK.lnorm import compute_l_p_norm, sort
 import numpy as np
 import pytest
 
