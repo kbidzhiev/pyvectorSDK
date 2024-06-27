@@ -1,5 +1,6 @@
 from vectorSDK.lnorm import compute_l_p_norm, sort
 import numpy as np
+import pytest
 
 def test_compute_l_p_norm():
     vec = np.array([3, 4])
