@@ -1,1 +1,1 @@
-# TQ solver config
+# Pedagogical repo
